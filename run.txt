@@ -1,0 +1,24 @@
+into SEMICON dir
+activate envs
+run python
+into SEMICON dir
+activate envs
+run python
+into SEMICON dir
+run python
+3333
+6667
+3333
+6667
+into SEMICON dir
+run python
+3333
+6667
+3333
+6667
+into SEMICON dir
+run python
+25250
+75750
+25250
+75750
